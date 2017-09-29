@@ -32,7 +32,7 @@ public static void main(String[] args) {
 }
 static void welcomeMessage ()
 {
-    System.out.println("Welcome to the CIS 220 Payroll Calculator!\n");
+    System.out.println("Welcome to the Deccison \n");
 }
 
 // Method that prompts the user to enter their name, scans it, then returns it.
