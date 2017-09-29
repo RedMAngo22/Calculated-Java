@@ -13,7 +13,7 @@ public static void main(String[] args) {
     double hours, pay, netPay;
 
  // Prints the welcome message from the method.
-    welcomeMessage();
+    welcomeMessage(Hello?);
 
  // Every initialized variable receives the return statements from their respected methods.        
     name  = getName();
